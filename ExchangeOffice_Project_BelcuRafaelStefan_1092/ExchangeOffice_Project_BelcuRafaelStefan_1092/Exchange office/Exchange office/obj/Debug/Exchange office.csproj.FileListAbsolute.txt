@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\bin\Debug\Exchange office.exe.config
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\bin\Debug\Exchange office.exe
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\bin\Debug\Exchange office.pdb
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\obj\Debug\Exchange office.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\obj\Debug\Exchange_office.EditForm.resources
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\obj\Debug\Exchange_office.Form1.resources
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\obj\Debug\Exchange_office.Properties.Resources.resources
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\obj\Debug\Exchange office.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\obj\Debug\Exchange office.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\obj\Debug\Exchange office.exe
+C:\Users\User\Desktop\ExchangeOffice_BelcuRafaelStefan_1092\Exchange office\Exchange office\obj\Debug\Exchange office.pdb
